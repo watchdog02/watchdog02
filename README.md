@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @watchdog02
 - 👀 I’m interested in data analysis and data science
-- 🌱 I’m currently learning python and SQL 
+- 🌱 I’m currently learning machine learning in python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
